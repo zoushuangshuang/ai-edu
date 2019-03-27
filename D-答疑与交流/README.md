@@ -1,5 +1,7 @@
 # 这是常用问题集锦
 
+- [azure](#Q-11)
+
 1. 安装深度学习环境的电脑需要什么型号的GPU？
 
     目前来说，Nvidia的支持CUDA的GPU应当都是可以的，具体型号可以查阅[CUDA支持列表](https://developer.nvidia.com/cuda-gpus)
@@ -41,7 +43,7 @@
 
     有很多，比如Ian Goodfellow、Yoshua Bengio和Aaron Courville的深度学习，Andrew Ng的相关课程等等。
 
-11. 如何申请Azure的学生账号？
+11. 如何申请Azure的学生账号？<a name="Q-11"></a>
 
     1. 使用世纪互联中国版：
         1. 打开[https://mspil.cn](https://mspil.cn)并注册账户，验证学生身份，具体申请流程参考下图
