@@ -43,7 +43,9 @@
 
     有很多，比如Ian Goodfellow、Yoshua Bengio和Aaron Courville的深度学习，Andrew Ng的相关课程等等。
 
-11. 如何申请Azure的学生账号？<a name="Q-11"></a>
+<a name="Q-11"></a>
+
+11. 如何申请Azure的学生账号？
 
     1. 使用世纪互联中国版：
         1. 打开[https://mspil.cn](https://mspil.cn)并注册账户，验证学生身份，具体申请流程参考下图
